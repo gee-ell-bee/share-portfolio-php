@@ -1,0 +1,27 @@
+Title: Web Design
+
+----
+
+Page: Web Design
+
+----
+
+Id: webdes
+
+----
+
+Box_Link_1_Name: CSS Animations
+
+----
+
+Box_Link_1_Image: 
+
+----
+
+Box_Link_2_Name: CSS Grids
+
+----
+
+Box_Link_2_Image: 
+
+----

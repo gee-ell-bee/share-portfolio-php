@@ -1,0 +1,33 @@
+/* HOMEPAGE GRID GOES HERE */
+main {
+    grid-template-areas:
+    "a a a a b b b b"
+    "c c c d d d d d"
+    "e e e e e e e e";
+}
+
+main *:nth-child(1) {
+    grid-area: a;
+}
+
+main *:nth-child(2) {
+    grid-area: b;
+}
+
+main *:nth-child(3) {
+    grid-area: c;
+}
+
+main *:nth-child(4) {
+    grid-area: d;
+}
+
+main *:nth-child(5) {
+    grid-area: e;
+}
+
+@media only screen and (min-width: 800px) {
+    main {
+        grid-template-rows: 150px 125px auto;
+    }
+}

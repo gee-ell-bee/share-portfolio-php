@@ -1,4 +1,4 @@
-# hi professor Bennett:
+# prof. Bennett:
 
 i added every file that's relevant to my goals, all the css + js files related to that page, plus the "top" and "nav" snippets to make sure the page functions well enough & limits visual distractions.
 

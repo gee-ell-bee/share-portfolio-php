@@ -8,6 +8,7 @@ start with site > snippets > home-boxes.php, since that's where i list in detail
 
 i can also come to office hours if you need me to help walk you through it, i know this is complicated.
 
-let me know if there's anything else you need from me!!
+thank you in advance for your help!
+let me know if there's anything else you need from me!
 
 -grey
